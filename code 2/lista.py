@@ -26,7 +26,4 @@ print("Número de elementos en la lista:", x)
 x = numeros[3]
 print("Numero de elemento en la posiscion 5:", x)
 
-# Recorrer la lista
-for num in numeros:
-    print("Número:", num)
 
